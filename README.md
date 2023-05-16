@@ -2,7 +2,7 @@
 SAP Cloud Integration iflow to Generate an Interface Catalogue of all the deployed iflows (spreadsheet) and email.
 
 **SAP Cloud Integration iflow Design**
-![image](https://github.com/nageshwarrao19/CI_AutomatedInterfaceCatalogue/assets/8555711/ee4b3df1-a0ea-4f59-a231-e329fd19afa1)
+![image](https://github.com/nageshwarrao19/CI_AutomatedInterfaceCatalogue/assets/8555711/6e535562-87d9-4bea-92f6-d9ac41fa812c)
 
 **iflow Configurations for Deployment**
 ![image](https://github.com/nageshwarrao19/CI_AutomatedInterfaceCatalogue/assets/8555711/45dbcf4b-5b97-489e-b8b0-123396e2178a)
